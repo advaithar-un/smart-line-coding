@@ -1,0 +1,421 @@
+snr_db,channel_type,rician_k_factor,impairment,trial,ber_nrz_l,ber_manchester,ber_differential_manchester,ber_ami,best_scheme
+-5,AWGN,0.0,none,1,0.2195,0.2125,0.4092,0.404,Manchester
+-5,AWGN,0.0,none,2,0.2118,0.2126,0.4075,0.4003,NRZ-L
+-5,AWGN,0.0,none,3,0.2134,0.2105,0.4082,0.4028,Manchester
+-5,AWGN,0.0,none,4,0.2196,0.2181,0.423,0.4039,Manchester
+-5,AWGN,0.0,none,5,0.2148,0.2107,0.4175,0.4118,Manchester
+-5,AWGN,0.0,none,6,0.2217,0.2141,0.4078,0.4072,Manchester
+-5,AWGN,0.0,none,7,0.2177,0.21,0.415,0.4091,Manchester
+-5,AWGN,0.0,none,8,0.2134,0.2118,0.4193,0.4071,Manchester
+-5,AWGN,0.0,none,9,0.2161,0.2117,0.4136,0.4065,Manchester
+-5,AWGN,0.0,none,10,0.2149,0.2192,0.4144,0.4172,NRZ-L
+0,AWGN,0.0,none,1,0.0803,0.0781,0.2657,0.2381,Manchester
+0,AWGN,0.0,none,2,0.0799,0.0774,0.266,0.2509,Manchester
+0,AWGN,0.0,none,3,0.0793,0.0758,0.2667,0.239,Manchester
+0,AWGN,0.0,none,4,0.0792,0.0826,0.2675,0.2336,NRZ-L
+0,AWGN,0.0,none,5,0.0781,0.0806,0.2622,0.2415,NRZ-L
+0,AWGN,0.0,none,6,0.0767,0.0757,0.2695,0.2299,Manchester
+0,AWGN,0.0,none,7,0.0787,0.0772,0.2736,0.2367,Manchester
+0,AWGN,0.0,none,8,0.0825,0.0811,0.2683,0.2362,Manchester
+0,AWGN,0.0,none,9,0.077,0.0796,0.2613,0.24,NRZ-L
+0,AWGN,0.0,none,10,0.081,0.0798,0.2679,0.2381,Manchester
+5,AWGN,0.0,none,1,0.0059,0.0054,0.075,0.0561,Manchester
+5,AWGN,0.0,none,2,0.005,0.0061,0.0755,0.0557,NRZ-L
+5,AWGN,0.0,none,3,0.0061,0.0056,0.0779,0.0514,Manchester
+5,AWGN,0.0,none,4,0.0071,0.0056,0.0744,0.054,Manchester
+5,AWGN,0.0,none,5,0.0062,0.006,0.0764,0.055,Manchester
+5,AWGN,0.0,none,6,0.0044,0.0062,0.0767,0.0533,NRZ-L
+5,AWGN,0.0,none,7,0.007,0.0064,0.0713,0.0529,Manchester
+5,AWGN,0.0,none,8,0.0046,0.0054,0.07,0.0573,NRZ-L
+5,AWGN,0.0,none,9,0.0069,0.0067,0.0691,0.0607,Manchester
+5,AWGN,0.0,none,10,0.0055,0.0053,0.0712,0.0538,Manchester
+10,AWGN,0.0,none,1,0.0,0.0,0.002,0.0013,NRZ-L
+10,AWGN,0.0,none,2,0.0,0.0,0.0017,0.0016,NRZ-L
+10,AWGN,0.0,none,3,0.0,0.0,0.0025,0.0016,NRZ-L
+10,AWGN,0.0,none,4,0.0,0.0,0.0014,0.001,NRZ-L
+10,AWGN,0.0,none,5,0.0,0.0,0.0011,0.0008,NRZ-L
+10,AWGN,0.0,none,6,0.0,0.0001,0.0013,0.0008,NRZ-L
+10,AWGN,0.0,none,7,0.0,0.0,0.0023,0.0013,NRZ-L
+10,AWGN,0.0,none,8,0.0,0.0,0.0014,0.0006,NRZ-L
+10,AWGN,0.0,none,9,0.0,0.0,0.0009,0.0012,NRZ-L
+10,AWGN,0.0,none,10,0.0,0.0,0.0019,0.0013,NRZ-L
+15,AWGN,0.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,6,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,9,0.0,0.0,0.0,0.0,NRZ-L
+15,AWGN,0.0,none,10,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,6,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,9,0.0,0.0,0.0,0.0,NRZ-L
+20,AWGN,0.0,none,10,0.0,0.0,0.0,0.0,NRZ-L
+-5,Rayleigh,0.0,none,1,0.2383,0.2342,0.4294,0.4228,Manchester
+-5,Rayleigh,0.0,none,2,0.2473,0.2419,0.4143,0.4152,Manchester
+-5,Rayleigh,0.0,none,3,0.2403,0.2478,0.4248,0.4219,NRZ-L
+-5,Rayleigh,0.0,none,4,0.2385,0.2394,0.4267,0.4242,NRZ-L
+-5,Rayleigh,0.0,none,5,0.2415,0.2385,0.4278,0.4243,Manchester
+-5,Rayleigh,0.0,none,6,0.2403,0.2438,0.4307,0.4232,NRZ-L
+-5,Rayleigh,0.0,none,7,0.2425,0.2421,0.4197,0.4221,Manchester
+-5,Rayleigh,0.0,none,8,0.2412,0.2362,0.4261,0.4197,Manchester
+-5,Rayleigh,0.0,none,9,0.2409,0.25,0.4297,0.4218,NRZ-L
+-5,Rayleigh,0.0,none,10,0.2407,0.2336,0.4219,0.4247,Manchester
+0,Rayleigh,0.0,none,1,0.1067,0.1043,0.3037,0.259,Manchester
+0,Rayleigh,0.0,none,2,0.1079,0.1031,0.3053,0.2679,Manchester
+0,Rayleigh,0.0,none,3,0.1008,0.099,0.312,0.2655,Manchester
+0,Rayleigh,0.0,none,4,0.1033,0.1093,0.3073,0.2733,NRZ-L
+0,Rayleigh,0.0,none,5,0.105,0.1015,0.3046,0.2607,Manchester
+0,Rayleigh,0.0,none,6,0.1062,0.1033,0.3064,0.2716,Manchester
+0,Rayleigh,0.0,none,7,0.1091,0.1065,0.3118,0.2693,Manchester
+0,Rayleigh,0.0,none,8,0.1068,0.1019,0.3014,0.2685,Manchester
+0,Rayleigh,0.0,none,9,0.1064,0.1022,0.3061,0.264,Manchester
+0,Rayleigh,0.0,none,10,0.1036,0.1092,0.3076,0.2705,NRZ-L
+5,Rayleigh,0.0,none,1,0.013,0.0138,0.1095,0.0768,NRZ-L
+5,Rayleigh,0.0,none,2,0.016,0.0134,0.108,0.083,Manchester
+5,Rayleigh,0.0,none,3,0.0123,0.0117,0.1097,0.0769,Manchester
+5,Rayleigh,0.0,none,4,0.0123,0.0123,0.1116,0.0792,NRZ-L
+5,Rayleigh,0.0,none,5,0.0137,0.0136,0.1145,0.0762,Manchester
+5,Rayleigh,0.0,none,6,0.0129,0.0137,0.109,0.0835,NRZ-L
+5,Rayleigh,0.0,none,7,0.0136,0.0124,0.1091,0.0796,Manchester
+5,Rayleigh,0.0,none,8,0.0143,0.0137,0.1175,0.0798,Manchester
+5,Rayleigh,0.0,none,9,0.0114,0.0147,0.116,0.0826,NRZ-L
+5,Rayleigh,0.0,none,10,0.0157,0.0137,0.1061,0.078,Manchester
+10,Rayleigh,0.0,none,1,0.0002,0.0002,0.0069,0.0051,NRZ-L
+10,Rayleigh,0.0,none,2,0.0,0.0,0.0062,0.0063,NRZ-L
+10,Rayleigh,0.0,none,3,0.0001,0.0,0.0057,0.0043,Manchester
+10,Rayleigh,0.0,none,4,0.0,0.0,0.0068,0.0042,NRZ-L
+10,Rayleigh,0.0,none,5,0.0,0.0001,0.0066,0.0056,NRZ-L
+10,Rayleigh,0.0,none,6,0.0,0.0,0.0073,0.0065,NRZ-L
+10,Rayleigh,0.0,none,7,0.0,0.0,0.0071,0.0041,NRZ-L
+10,Rayleigh,0.0,none,8,0.0,0.0001,0.0065,0.0053,NRZ-L
+10,Rayleigh,0.0,none,9,0.0002,0.0,0.0058,0.0065,Manchester
+10,Rayleigh,0.0,none,10,0.0,0.0002,0.0055,0.0051,NRZ-L
+15,Rayleigh,0.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+15,Rayleigh,0.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+15,Rayleigh,0.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+15,Rayleigh,0.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+15,Rayleigh,0.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+15,Rayleigh,0.0,none,6,0.0,0.0,0.0,0.0002,NRZ-L
+15,Rayleigh,0.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+15,Rayleigh,0.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+15,Rayleigh,0.0,none,9,0.0,0.0,0.0,0.0001,NRZ-L
+15,Rayleigh,0.0,none,10,0.0,0.0,0.0001,0.0,NRZ-L
+20,Rayleigh,0.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,6,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,9,0.0,0.0,0.0,0.0,NRZ-L
+20,Rayleigh,0.0,none,10,0.0,0.0,0.0,0.0,NRZ-L
+-5,Rician,1.0,none,1,0.2603,0.2593,0.4423,0.4365,Manchester
+-5,Rician,1.0,none,2,0.2579,0.2656,0.4416,0.4235,NRZ-L
+-5,Rician,1.0,none,3,0.2539,0.2584,0.4279,0.4244,NRZ-L
+-5,Rician,1.0,none,4,0.2611,0.2584,0.4368,0.4267,Manchester
+-5,Rician,1.0,none,5,0.2578,0.249,0.4327,0.4262,Manchester
+-5,Rician,1.0,none,6,0.2501,0.256,0.436,0.428,NRZ-L
+-5,Rician,1.0,none,7,0.2587,0.2598,0.4352,0.4236,NRZ-L
+-5,Rician,1.0,none,8,0.2628,0.2644,0.429,0.4197,NRZ-L
+-5,Rician,1.0,none,9,0.249,0.2573,0.4376,0.424,NRZ-L
+-5,Rician,1.0,none,10,0.2655,0.255,0.4411,0.4266,Manchester
+0,Rician,1.0,none,1,0.1211,0.1331,0.3313,0.2768,NRZ-L
+0,Rician,1.0,none,2,0.1296,0.1228,0.3263,0.2802,Manchester
+0,Rician,1.0,none,3,0.1237,0.1289,0.3309,0.2853,NRZ-L
+0,Rician,1.0,none,4,0.1257,0.1269,0.3268,0.2842,NRZ-L
+0,Rician,1.0,none,5,0.1232,0.1304,0.3337,0.2748,NRZ-L
+0,Rician,1.0,none,6,0.1259,0.1186,0.3296,0.2808,Manchester
+0,Rician,1.0,none,7,0.1206,0.1231,0.329,0.278,NRZ-L
+0,Rician,1.0,none,8,0.1167,0.1254,0.3289,0.2768,NRZ-L
+0,Rician,1.0,none,9,0.1238,0.1298,0.3205,0.2795,NRZ-L
+0,Rician,1.0,none,10,0.1259,0.1227,0.3364,0.2759,Manchester
+5,Rician,1.0,none,1,0.0223,0.02,0.136,0.123,Manchester
+5,Rician,1.0,none,2,0.0196,0.0194,0.14,0.1203,Manchester
+5,Rician,1.0,none,3,0.019,0.0207,0.1398,0.1219,NRZ-L
+5,Rician,1.0,none,4,0.019,0.0229,0.1429,0.1233,NRZ-L
+5,Rician,1.0,none,5,0.0198,0.0206,0.136,0.1261,NRZ-L
+5,Rician,1.0,none,6,0.0229,0.0182,0.1478,0.1209,Manchester
+5,Rician,1.0,none,7,0.0184,0.0216,0.1373,0.1194,NRZ-L
+5,Rician,1.0,none,8,0.0234,0.0175,0.1383,0.1194,Manchester
+5,Rician,1.0,none,9,0.0192,0.0189,0.1439,0.1226,Manchester
+5,Rician,1.0,none,10,0.0213,0.0222,0.142,0.126,NRZ-L
+10,Rician,1.0,none,1,0.0001,0.0004,0.0148,0.0428,NRZ-L
+10,Rician,1.0,none,2,0.0001,0.0001,0.0115,0.0383,NRZ-L
+10,Rician,1.0,none,3,0.0001,0.0,0.0127,0.04,Manchester
+10,Rician,1.0,none,4,0.0002,0.0002,0.0127,0.0403,NRZ-L
+10,Rician,1.0,none,5,0.0002,0.0004,0.0113,0.0395,NRZ-L
+10,Rician,1.0,none,6,0.0,0.0002,0.012,0.0367,NRZ-L
+10,Rician,1.0,none,7,0.0,0.0002,0.0117,0.0382,NRZ-L
+10,Rician,1.0,none,8,0.0,0.0004,0.014,0.0368,NRZ-L
+10,Rician,1.0,none,9,0.0003,0.0002,0.0127,0.0375,Manchester
+10,Rician,1.0,none,10,0.0001,0.0001,0.0122,0.04,NRZ-L
+15,Rician,1.0,none,1,0.0,0.0,0.0,0.006,NRZ-L
+15,Rician,1.0,none,2,0.0,0.0,0.0,0.0057,NRZ-L
+15,Rician,1.0,none,3,0.0,0.0,0.0001,0.0065,NRZ-L
+15,Rician,1.0,none,4,0.0,0.0,0.0,0.0047,NRZ-L
+15,Rician,1.0,none,5,0.0,0.0,0.0,0.0075,NRZ-L
+15,Rician,1.0,none,6,0.0,0.0,0.0001,0.007,NRZ-L
+15,Rician,1.0,none,7,0.0,0.0,0.0,0.0063,NRZ-L
+15,Rician,1.0,none,8,0.0,0.0,0.0,0.0052,NRZ-L
+15,Rician,1.0,none,9,0.0,0.0,0.0002,0.0057,NRZ-L
+15,Rician,1.0,none,10,0.0,0.0,0.0,0.0065,NRZ-L
+20,Rician,1.0,none,1,0.0,0.0,0.0,0.0003,NRZ-L
+20,Rician,1.0,none,2,0.0,0.0,0.0,0.0004,NRZ-L
+20,Rician,1.0,none,3,0.0,0.0,0.0,0.0006,NRZ-L
+20,Rician,1.0,none,4,0.0,0.0,0.0,0.0007,NRZ-L
+20,Rician,1.0,none,5,0.0,0.0,0.0,0.0003,NRZ-L
+20,Rician,1.0,none,6,0.0,0.0,0.0,0.0004,NRZ-L
+20,Rician,1.0,none,7,0.0,0.0,0.0,0.0004,NRZ-L
+20,Rician,1.0,none,8,0.0,0.0,0.0,0.0009,NRZ-L
+20,Rician,1.0,none,9,0.0,0.0,0.0,0.0005,NRZ-L
+20,Rician,1.0,none,10,0.0,0.0,0.0,0.0006,NRZ-L
+-5,Rician,3.0,none,1,0.2386,0.2265,0.4214,0.4167,Manchester
+-5,Rician,3.0,none,2,0.2305,0.2236,0.4193,0.4171,Manchester
+-5,Rician,3.0,none,3,0.2205,0.2278,0.4179,0.4127,NRZ-L
+-5,Rician,3.0,none,4,0.2393,0.2261,0.4097,0.4023,Manchester
+-5,Rician,3.0,none,5,0.2404,0.2317,0.4249,0.4183,Manchester
+-5,Rician,3.0,none,6,0.2251,0.2298,0.4137,0.4034,NRZ-L
+-5,Rician,3.0,none,7,0.2269,0.2369,0.4157,0.4213,NRZ-L
+-5,Rician,3.0,none,8,0.2349,0.2181,0.4275,0.4136,Manchester
+-5,Rician,3.0,none,9,0.2308,0.2289,0.4166,0.4148,Manchester
+-5,Rician,3.0,none,10,0.2315,0.2272,0.4209,0.424,Manchester
+0,Rician,3.0,none,1,0.1004,0.0972,0.2849,0.2498,Manchester
+0,Rician,3.0,none,2,0.0982,0.0956,0.2922,0.2485,Manchester
+0,Rician,3.0,none,3,0.0957,0.0925,0.2906,0.2476,Manchester
+0,Rician,3.0,none,4,0.0935,0.098,0.2927,0.2437,NRZ-L
+0,Rician,3.0,none,5,0.097,0.0989,0.2903,0.2481,NRZ-L
+0,Rician,3.0,none,6,0.0952,0.0974,0.287,0.2519,NRZ-L
+0,Rician,3.0,none,7,0.0936,0.093,0.2875,0.2403,Manchester
+0,Rician,3.0,none,8,0.091,0.0947,0.295,0.2612,NRZ-L
+0,Rician,3.0,none,9,0.0993,0.0944,0.2928,0.2468,Manchester
+0,Rician,3.0,none,10,0.0991,0.0963,0.2936,0.2503,Manchester
+5,Rician,3.0,none,1,0.0093,0.0093,0.0928,0.0705,NRZ-L
+5,Rician,3.0,none,2,0.0106,0.011,0.0958,0.0723,NRZ-L
+5,Rician,3.0,none,3,0.009,0.0107,0.0946,0.0687,NRZ-L
+5,Rician,3.0,none,4,0.0099,0.0106,0.0967,0.0735,NRZ-L
+5,Rician,3.0,none,5,0.0085,0.0085,0.0991,0.0715,NRZ-L
+5,Rician,3.0,none,6,0.0107,0.0114,0.0949,0.0741,NRZ-L
+5,Rician,3.0,none,7,0.0099,0.0093,0.0973,0.0747,Manchester
+5,Rician,3.0,none,8,0.0101,0.0101,0.0948,0.0726,NRZ-L
+5,Rician,3.0,none,9,0.0092,0.0095,0.0964,0.0719,NRZ-L
+5,Rician,3.0,none,10,0.0089,0.0119,0.0968,0.0713,NRZ-L
+10,Rician,3.0,none,1,0.0,0.0,0.0043,0.0041,NRZ-L
+10,Rician,3.0,none,2,0.0,0.0,0.0034,0.0033,NRZ-L
+10,Rician,3.0,none,3,0.0001,0.0,0.0047,0.0043,Manchester
+10,Rician,3.0,none,4,0.0,0.0001,0.0048,0.0038,NRZ-L
+10,Rician,3.0,none,5,0.0001,0.0,0.0038,0.0049,Manchester
+10,Rician,3.0,none,6,0.0,0.0,0.0044,0.0055,NRZ-L
+10,Rician,3.0,none,7,0.0,0.0,0.0031,0.0043,NRZ-L
+10,Rician,3.0,none,8,0.0,0.0,0.0036,0.0039,NRZ-L
+10,Rician,3.0,none,9,0.0,0.0,0.0036,0.004,NRZ-L
+10,Rician,3.0,none,10,0.0,0.0,0.0044,0.0046,NRZ-L
+15,Rician,3.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,6,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,9,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,3.0,none,10,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,6,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,9,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,3.0,none,10,0.0,0.0,0.0,0.0,NRZ-L
+-5,Rician,10.0,none,1,0.2206,0.2155,0.4135,0.4031,Manchester
+-5,Rician,10.0,none,2,0.2277,0.2258,0.4185,0.4124,Manchester
+-5,Rician,10.0,none,3,0.2092,0.2167,0.4129,0.4056,NRZ-L
+-5,Rician,10.0,none,4,0.22,0.2183,0.4032,0.4139,Manchester
+-5,Rician,10.0,none,5,0.219,0.2227,0.4135,0.4156,NRZ-L
+-5,Rician,10.0,none,6,0.2221,0.2154,0.4101,0.4157,Manchester
+-5,Rician,10.0,none,7,0.2172,0.2166,0.4022,0.4016,Manchester
+-5,Rician,10.0,none,8,0.2234,0.2169,0.4133,0.4101,Manchester
+-5,Rician,10.0,none,9,0.2089,0.2259,0.4218,0.4093,NRZ-L
+-5,Rician,10.0,none,10,0.2222,0.2222,0.4101,0.4126,NRZ-L
+0,Rician,10.0,none,1,0.0867,0.0889,0.2688,0.2526,NRZ-L
+0,Rician,10.0,none,2,0.0825,0.0871,0.276,0.2479,NRZ-L
+0,Rician,10.0,none,3,0.0807,0.0789,0.2731,0.2381,Manchester
+0,Rician,10.0,none,4,0.087,0.0786,0.271,0.2343,Manchester
+0,Rician,10.0,none,5,0.0861,0.0869,0.2713,0.2471,NRZ-L
+0,Rician,10.0,none,6,0.0904,0.0816,0.2676,0.244,Manchester
+0,Rician,10.0,none,7,0.0855,0.0845,0.279,0.2449,Manchester
+0,Rician,10.0,none,8,0.0843,0.0867,0.2777,0.2398,NRZ-L
+0,Rician,10.0,none,9,0.0868,0.0817,0.2688,0.2389,Manchester
+0,Rician,10.0,none,10,0.0859,0.086,0.2686,0.2356,NRZ-L
+5,Rician,10.0,none,1,0.008,0.007,0.083,0.0574,Manchester
+5,Rician,10.0,none,2,0.0067,0.0076,0.079,0.0608,NRZ-L
+5,Rician,10.0,none,3,0.0077,0.0066,0.0783,0.0585,Manchester
+5,Rician,10.0,none,4,0.0083,0.0056,0.0767,0.0605,Manchester
+5,Rician,10.0,none,5,0.0073,0.0058,0.0766,0.064,Manchester
+5,Rician,10.0,none,6,0.0053,0.0058,0.0806,0.0582,NRZ-L
+5,Rician,10.0,none,7,0.007,0.0069,0.0804,0.0615,Manchester
+5,Rician,10.0,none,8,0.0068,0.0049,0.0787,0.0572,Manchester
+5,Rician,10.0,none,9,0.0075,0.0079,0.0776,0.0627,NRZ-L
+5,Rician,10.0,none,10,0.007,0.008,0.08,0.061,NRZ-L
+10,Rician,10.0,none,1,0.0001,0.0,0.0026,0.0008,Manchester
+10,Rician,10.0,none,2,0.0,0.0,0.0023,0.0017,NRZ-L
+10,Rician,10.0,none,3,0.0,0.0,0.0017,0.0015,NRZ-L
+10,Rician,10.0,none,4,0.0,0.0,0.0023,0.0013,NRZ-L
+10,Rician,10.0,none,5,0.0,0.0,0.0015,0.0019,NRZ-L
+10,Rician,10.0,none,6,0.0,0.0,0.0014,0.0014,NRZ-L
+10,Rician,10.0,none,7,0.0,0.0001,0.0011,0.002,NRZ-L
+10,Rician,10.0,none,8,0.0,0.0,0.0024,0.0025,NRZ-L
+10,Rician,10.0,none,9,0.0,0.0,0.0013,0.0015,NRZ-L
+10,Rician,10.0,none,10,0.0,0.0001,0.0022,0.001,NRZ-L
+15,Rician,10.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,6,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,9,0.0,0.0,0.0,0.0,NRZ-L
+15,Rician,10.0,none,10,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,1,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,2,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,3,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,4,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,5,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,6,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,7,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,8,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,9,0.0,0.0,0.0,0.0,NRZ-L
+20,Rician,10.0,none,10,0.0,0.0,0.0,0.0,NRZ-L
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,1,0.7886,0.7915,0.4095,0.4039,AMI
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,2,0.7859,0.7766,0.4069,0.4096,Differential Manchester
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,3,0.791,0.7901,0.4134,0.4047,AMI
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,4,0.7829,0.7865,0.4139,0.4045,AMI
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,5,0.7856,0.7859,0.4138,0.41,AMI
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,6,0.7847,0.7839,0.4107,0.4073,AMI
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,7,0.7905,0.7876,0.406,0.4099,Differential Manchester
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,8,0.7894,0.785,0.4026,0.4127,Differential Manchester
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,9,0.7867,0.7892,0.4025,0.4036,Differential Manchester
+-5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,10,0.7863,0.7896,0.411,0.3992,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,1,0.921,0.92,0.2621,0.243,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,2,0.9214,0.9212,0.2644,0.2369,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,3,0.9156,0.9223,0.2679,0.2424,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,4,0.9194,0.9206,0.2715,0.2409,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,5,0.9184,0.9188,0.2685,0.2331,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,6,0.9186,0.9243,0.271,0.2383,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,7,0.9204,0.9228,0.2681,0.2424,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,8,0.9237,0.9204,0.2724,0.2412,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,9,0.9237,0.9212,0.2711,0.2418,AMI
+0,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,10,0.9187,0.9221,0.2713,0.2397,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,1,0.9938,0.9939,0.0739,0.0562,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,2,0.9949,0.9937,0.0723,0.0559,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,3,0.9948,0.9937,0.07,0.0572,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,4,0.9947,0.9945,0.0695,0.0539,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,5,0.9944,0.9955,0.0704,0.0516,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,6,0.9939,0.9937,0.0698,0.0582,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,7,0.9947,0.9936,0.0697,0.0595,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,8,0.9949,0.9953,0.0713,0.0533,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,9,0.9943,0.9941,0.0715,0.0535,AMI
+5,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,10,0.994,0.9945,0.0747,0.0568,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,1,1.0,1.0,0.0023,0.0013,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,2,1.0,0.9999,0.0016,0.0006,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,3,1.0,1.0,0.0017,0.0014,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,4,1.0,1.0,0.0019,0.0007,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,5,1.0,1.0,0.0015,0.0014,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,6,1.0,1.0,0.0017,0.0016,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,7,1.0,1.0,0.002,0.0009,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,8,1.0,1.0,0.0019,0.0016,AMI
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,9,1.0,1.0,0.0015,0.0017,Differential Manchester
+10,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,10,1.0,1.0,0.002,0.0012,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,1,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,2,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,3,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,4,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,5,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,6,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,7,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,8,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,9,1.0,1.0,0.0001,0.0,AMI
+15,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,10,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,1,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,2,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,3,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,4,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,5,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,6,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,7,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,8,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,9,1.0,1.0,0.0001,0.0,AMI
+20,Whole Signal Polarity Inversion,0.0,whole_signal_inversion,10,1.0,1.0,0.0001,0.0,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,1,0.5101,0.5069,0.4945,0.4029,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,2,0.4999,0.4969,0.4947,0.4119,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,3,0.4925,0.4908,0.4987,0.4144,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,4,0.5025,0.5013,0.4999,0.4025,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,5,0.4987,0.4957,0.5008,0.4077,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,6,0.5052,0.4923,0.4971,0.4098,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,7,0.4975,0.5014,0.5038,0.4124,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,8,0.5106,0.5016,0.4993,0.4072,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,9,0.5039,0.4942,0.4962,0.4022,AMI
+-5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,10,0.509,0.4953,0.4978,0.4074,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,1,0.5017,0.4954,0.494,0.234,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,2,0.5024,0.5124,0.4925,0.229,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,3,0.5027,0.4989,0.5012,0.235,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,4,0.4971,0.4928,0.4969,0.2431,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,5,0.5009,0.501,0.5026,0.2372,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,6,0.4976,0.5067,0.4994,0.2353,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,7,0.5064,0.5027,0.5025,0.2396,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,8,0.4959,0.4993,0.4975,0.2393,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,9,0.5087,0.5075,0.5021,0.2436,AMI
+0,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,10,0.4951,0.4987,0.4985,0.2409,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,1,0.5146,0.499,0.4965,0.0581,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,2,0.5082,0.4961,0.5035,0.055,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,3,0.4938,0.5059,0.5025,0.057,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,4,0.4976,0.4961,0.5031,0.0556,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,5,0.5128,0.5069,0.5109,0.0536,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,6,0.5053,0.4996,0.5004,0.0544,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,7,0.4979,0.5041,0.4916,0.0544,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,8,0.5033,0.4976,0.4957,0.0556,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,9,0.5021,0.496,0.5096,0.0559,AMI
+5,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,10,0.4921,0.4954,0.4971,0.0546,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,1,0.5082,0.4944,0.4977,0.0013,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,2,0.5023,0.4956,0.5049,0.0021,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,3,0.5039,0.5043,0.5001,0.0014,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,4,0.4871,0.5002,0.5092,0.0011,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,5,0.5097,0.5019,0.4914,0.001,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,6,0.4952,0.5015,0.4963,0.0011,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,7,0.5066,0.4964,0.5001,0.0009,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,8,0.5004,0.4991,0.4979,0.0011,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,9,0.4953,0.4959,0.4967,0.0009,AMI
+10,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,10,0.4978,0.498,0.5057,0.0013,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,1,0.507,0.496,0.5048,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,2,0.5057,0.5033,0.4994,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,3,0.5052,0.4976,0.4947,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,4,0.5115,0.4987,0.5035,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,5,0.4941,0.5004,0.5076,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,6,0.4945,0.5015,0.5009,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,7,0.5051,0.5013,0.5003,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,8,0.4926,0.5086,0.4982,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,9,0.5029,0.4982,0.5062,0.0,AMI
+15,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,10,0.497,0.5041,0.504,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,1,0.503,0.4968,0.491,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,2,0.494,0.4975,0.5073,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,3,0.5028,0.4968,0.4994,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,4,0.51,0.4982,0.5012,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,5,0.4984,0.4948,0.4955,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,6,0.5063,0.5015,0.5047,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,7,0.5043,0.5026,0.5035,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,8,0.5031,0.4996,0.4923,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,9,0.5022,0.4977,0.4972,0.0,AMI
+20,Per-Bit Pulse Polarity Disturbance,0.0,per_bit_polarity_disturbance,10,0.4959,0.4996,0.5039,0.0,AMI
